@@ -1,5 +1,5 @@
 
-function espolindomo(){
+function espolindromo(){
     let cadena = $("#texto").val();
     let array = cadena.split("");
     let invertir = array.reverse();
@@ -11,6 +11,6 @@ function espolindomo(){
 
 // var valor1 = prompt("Ingrese un valor");
 
-// valor1 = espolindomo(valor1)
+// valor1 = espolindromo(valor1)
 
 
